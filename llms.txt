@@ -1,0 +1,10 @@
+MCPLoad Budgeter MCP
+
+Paid remote MCP for context budgets, progressive loading, schema slimming, and readiness.
+
+Website: https://mcploadbudgeter.space/
+MCP endpoint: https://mcploadbudgeter.space/mcp
+Server card: https://mcploadbudgeter.space/.well-known/mcp/server-card.json
+Registry name: space.mcploadbudgeter/mcploadbudgeter-mcp
+Auth: Authorization: Bearer <token> after checkout and token claim.
+Boundary: read-only fixed tools for MCP context budget; no arbitrary shell, arbitrary SQL, deployment, deletion, or payment configuration tools.
